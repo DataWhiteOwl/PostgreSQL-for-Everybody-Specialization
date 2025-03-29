@@ -7,13 +7,15 @@ Coursera - University of Michigan - PostgreSQL for Everybody Specialization
 *  Course-04 - Database Architecture, Scale and NoSQL with Elasticsearch
 
 # PostgreSQL First Sample Database
-The DVD rental database represents the business processes of a DVD rental store. The DVD rental database has many objects, including:
-15 tables
-1 trigger
-7 views
-8 functions
-1 domain
-13 sequences
+The DVD rental database represents the business processes of a DVD rental store.
+
+The DVD rental database has many objects, including:
+*  15 tables
+*  1 trigger
+*  7 views
+*  8 functions
+*  1 domain
+*  13 sequences
 
 ![image](https://github.com/user-attachments/assets/af190fbf-ba3a-4fc1-bd47-11c3c9b86bbd)
 
