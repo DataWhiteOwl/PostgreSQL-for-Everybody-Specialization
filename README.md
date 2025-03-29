@@ -6,7 +6,7 @@ Coursera - University of Michigan - PostgreSQL for Everybody Specialization
 *  Course-03 - JSON and Natural Language Peocessing in PostgreSQL
 *  Course-04 - Database Architecture, Scale and NoSQL with Elasticsearch
 
-# PostgreSQL First Sample Database
+# PostgreSQL - First Sample Database
 The DVD rental database represents the business processes of a DVD rental store.
 
 The DVD rental database has many objects, including:
@@ -19,7 +19,7 @@ The DVD rental database has many objects, including:
 
 ![image](https://github.com/user-attachments/assets/af190fbf-ba3a-4fc1-bd47-11c3c9b86bbd)
 
-## PostgreSQL First Sample Database Tables 
+## PostgreSQL - First Sample Database Tables 
 There are 15 tables in the DVD Rental database:
 
 *  actor – stores actors data including first name and last name.
